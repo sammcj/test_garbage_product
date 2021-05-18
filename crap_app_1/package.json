@@ -8,7 +8,7 @@
   "dependencies": {
     "autoprefixer-loader": "2.1.0",
     "babel": "5.8.34",
-    "babel-core": "5.0.0",
+    "babel-core": "5.8.38",
     "babel-loader": "1.1.1",
     "babel-runtime": "5.8.34",
     "bower": "1.6.5",
