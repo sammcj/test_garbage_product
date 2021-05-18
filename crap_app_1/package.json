@@ -22,7 +22,7 @@
     "has-geolocation": "1.0.1",
     "history": "1.13.1",
     "immutable": "3.7.5",
-    "js-yaml": "3.4.2",
+    "js-yaml": "3.14.1",
     "lru-cache": "2.7.0",
     "moment": "2.10.6",
     "newrelic": "1.22.1",
